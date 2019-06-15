@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seek_bar_width">300dp</dimen>
+    <dimen name="global_margin">30dp</dimen>
+    <dimen name="icon_size">50dp</dimen>
+</resources>
